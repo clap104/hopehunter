@@ -1,0 +1,4 @@
+This phase is first step. 
+-> Landing page
+-> Wireframe product
+-> Design database and function
